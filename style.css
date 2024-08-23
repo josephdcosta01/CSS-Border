@@ -1,0 +1,45 @@
+h2{
+    border: 4px solid red;
+    color: rgb(49, 75, 10);
+
+}
+
+/* img{
+    border: 4px solid red;
+} */
+
+img{
+border-top: 14px ridge blueviolet;
+border-radius: 40px;
+}
+
+.header{
+    border: 5px dashed yellow;
+}
+
+.header ul li.home{
+    border: 2px dotted blue;
+}
+
+.header ul li.about{
+    border: 3px ridge green;
+}
+
+.header ul li.blog{
+    border: 4px groove orange;
+}
+
+.header ul li.contact{
+    border: 5px inset pink;
+}
+
+.header ul li.contact{
+    border: 5px outset pink;
+}
+
+
+
+
+
+
+
